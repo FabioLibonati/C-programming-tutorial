@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609200548 source:c:\users\fabio_000\downloads\programming c\projects\c programs [practice]\printfactors\main.c
+	<stdio.h>
+	<stdlib.h>
+

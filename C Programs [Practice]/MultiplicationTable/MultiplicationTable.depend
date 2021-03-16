@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608766140 source:c:\users\fabio_000\downloads\programming c\projects\projecttests\multiplicationtable\main.c
+	<stdio.h>
+	<stdlib.h>
+

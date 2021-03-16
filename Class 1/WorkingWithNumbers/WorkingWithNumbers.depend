@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608066344 source:c:\users\fabio_000\downloads\programming c\projects\class 1\workingwithnumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

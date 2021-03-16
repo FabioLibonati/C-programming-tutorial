@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610747948 source:c:\users\fabio_000\downloads\programming\programming c\projects\c programs [practice]\swapnumbers\swapnumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

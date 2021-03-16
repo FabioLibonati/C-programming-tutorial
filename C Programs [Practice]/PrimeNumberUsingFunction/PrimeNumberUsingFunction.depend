@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609270242 source:c:\users\fabio_000\downloads\programming c\projects\c programs [practice]\primenumberusingfunction\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
